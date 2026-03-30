@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Samuel%20Hounsou&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Cybersecurity%20Developer&descAlignY=58&descSize=18&descColor=a78bfa" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Samuel%20Hounsou&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Cybersecurity%20Developer%20%7C%20Fullstack%20Developer&descAlignY=58&descSize=18&descColor=a78bfa" width="100%"/>
 </div>
 
 <div align="center">
@@ -27,7 +27,7 @@ profile = {
     "name"      : "Samuel Hounsou",
     "alias"     : "hounsoubenny-cyber",
     "school"    : "IFRI Cotonou — Information Systems, L1",
-    "focus"     : ["AI Engineering", "Cybersecurity", "MLOps"],
+    "focus"     : ["AI Engineering", "Cybersecurity", "MLOps", "FullStack Developper"],
     "currently" : "Building ShieldAI V2 — ML-powered web vulnerability scanner",
     "belief"    : "Understanding internals beats using abstractions.",
     "goal"      : "Anthropic · Research Engineer",
