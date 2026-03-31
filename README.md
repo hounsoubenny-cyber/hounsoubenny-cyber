@@ -52,7 +52,7 @@ I don't copy tutorials — I build real systems. At 17, I've shipped a phishing 
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🛡️ <a href="https://github.com/hounsoubenny-cyber/ids-ips-ai">IDS/IPS AI System</a></h3>
+      <h3>🛡️ <a href="https://github.com/hounsoubenny-cyber/ids-ai">IDS/IPS AI System</a></h3>
       <p>Hybrid network intrusion detection combining LSTM autoencoders, CNN, Isolation Forest, and LOF. Real-time multi-interface capture, Optuna-tuned, <strong>&lt;100ms</strong> per packet.</p>
       <p>
         <img src="https://img.shields.io/badge/Latency-%3C100ms-22c55e?style=flat-square"/>
@@ -89,7 +89,7 @@ I don't copy tutorials — I build real systems. At 17, I've shipped a phishing 
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📡 <a href="https://github.com/hounsoubenny-cyber/nexus">NEXUS</a></h3>
+      <h3>📡 <a href="https://github.com/hounsoubenny-cyber/nexus-four">NEXUS</a></h3>
       <p>Fully offline RAG assistant built in 24h at a hackathon. Three search modes (semantic, keyword, hybrid), no internet required, ~500ms response time.</p>
       <p>
         <img src="https://img.shields.io/badge/Offline-100%25-22c55e?style=flat-square"/>
