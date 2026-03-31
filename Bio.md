@@ -2,21 +2,8 @@
 
 ---
 
-## GitHub Bio (160 caractères max — champ "Bio" dans Settings)
+## GitHub Bio
 
-### Option A — Technique + ambition
-```
-AI Engineer & Cybersecurity Dev · IFRI Cotonou 🇧🇯 · Building ML security systems from scratch · Goal: Anthropic
-```
-(108 chars)
-
-### Option B — Chiffres qui frappent
-```
-17yo · Phishing detector 99.3% · IDS <100ms · ShieldAI V2 in progress · IFRI Cotonou 🇧🇯
-```
-(90 chars)
-
-### Option C — Positionnement clair (recommandée ✅)
 ```
 AI + Cybersecurity · I build what I can't find · IFRI Cotonou 🇧🇯 · ShieldAI · Anti-Phishing ML · IDS/IPS
 ```
